@@ -1,0 +1,9 @@
+prompt_template: |
+  Context:
+
+  {context}
+
+  ---
+
+  Answer the following question based on the above context only and not prior knowledge.
+  Question: {question}
