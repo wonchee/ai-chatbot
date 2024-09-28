@@ -21,7 +21,7 @@ python -m venv .venv
 5. Install the dependencies
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 6. Create .env file and add your OpenAI API key
